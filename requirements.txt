@@ -1,4 +1,5 @@
 bqplot
+holoviews
 ipycanvas>=0.9.1
 ipyevents>=2.0.1
 ipyleaflet
